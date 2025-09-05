@@ -1,4 +1,4 @@
-# Olá, eu sou o João 👋
+# Olá, eu sou o João Lima👋
 
 Sou um Desenvolvedor de Software Júnior apaixonado por resolver problemas complexos e construir soluções eficientes. Encaro a programação como um quebra-cabeça lógico e estou sempre em busca do código mais limpo e performático.
 
