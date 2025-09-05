@@ -6,7 +6,7 @@ Sou um Desenvolvedor de Software Júnior apaixonado por resolver problemas compl
 - 🌱 Estou aprendendo e aprofundando meus conhecimentos em **Java com Spring Boot**.
 - 🤔 Tenho grande interesse em futuramente explorar a área de **Inteligência Artificial**.
 - 💬 Me chame para falar sobre **Python, Java, e análise de algoritmos**.
-- 📫 Como me encontrar: [LinkedIn](https://www.linkedin.com/in/seu-usuario-linkedin/)
+- 📫 Como me encontrar: [LinkedIn](https://www.linkedin.com/in/limajoaohs/)
 
 ---
 
