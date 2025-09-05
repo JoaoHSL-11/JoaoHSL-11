@@ -3,7 +3,7 @@
 Sou um Desenvolvedor de Software Júnior apaixonado por resolver problemas complexos e construir soluções eficientes. Encaro a programação como um quebra-cabeça lógico e estou sempre em busca do código mais limpo e performático.
 
 - 🔭 Atualmente estou trabalhando no meu portfólio, focando em projetos back-end.
-- 🌱 Estou aprendendo e aprofundando meus conhecimentos em **Java com Spring Boot**.
+- ✅ Concluí recentemente um projeto de API RESTful com **Java e Spring Boot**, implementando todas as operações CRUD.
 - 🤔 Tenho grande interesse em futuramente explorar a área de **Inteligência Artificial**.
 - 💬 Me chame para falar sobre **Python, Java, e análise de algoritmos**.
 - 📫 Como me encontrar: [Linkedin](https://www.linkedin.com/in/limajoaohs/)
