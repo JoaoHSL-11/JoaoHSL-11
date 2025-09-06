@@ -1,16 +1,16 @@
-# Olá, eu sou o João Lima👋
+# Hi, I'm João Lima 👋
 
-Sou um Desenvolvedor de Software Júnior apaixonado por resolver problemas complexos e construir soluções eficientes. Encaro a programação como um quebra-cabeça lógico e estou sempre em busca do código mais limpo e performático.
+I'm a Junior Software Developer passionate about solving complex problems and building efficient solutions. I see programming as a logical puzzle and I'm always in pursuit of the cleanest, most performant code.
 
-- 🔭 Atualmente estou trabalhando no meu portfólio, focando em projetos back-end.
-- ✅ Concluí recentemente um projeto de API RESTful com **Java e Spring Boot**, implementando todas as operações CRUD.
-- 🤔 Tenho grande interesse em futuramente explorar a área de **Inteligência Artificial**.
-- 💬 Me chame para falar sobre **Python, Java, e análise de algoritmos**.
-- 📫 Como me encontrar: [Linkedin](https://www.linkedin.com/in/limajoaohs/)
+- 🔭 I’m currently working on my portfolio, focusing on back-end projects.
+- ✅ I recently completed a RESTful API project with **Java and Spring Boot**, implementing all CRUD operations.
+- 🤔 I have a strong interest in exploring the field of **Artificial Intelligence** in the future.
+- 💬 Ask me about **Python, Java, and algorithm analysis**.
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/limajoaohs/)
 
 ---
 
-### 🛠️ Minhas Ferramentas e Tecnologias
+### 🛠️ My Tools and Technologies
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -25,6 +25,6 @@ Sou um Desenvolvedor de Software Júnior apaixonado por resolver problemas compl
 
 ---
 
-### 📊 Minhas Estatísticas no GitHub
+### 📊 My GitHub Stats
 
-[![Estatísticas do GitHub de JoaoHSL-11](https://github-readme-stats.vercel.app/api?username=JoaoHSL-11&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![João Lima's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JoaoHSL-11&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
