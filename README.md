@@ -27,4 +27,4 @@ I'm a Junior Software Developer passionate about solving complex problems and bu
 
 ### 📊 My GitHub Stats
 
-[![João Lima's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JoaoHSL-11&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![João Lima's GitHub Stats](https://github-readme-stats.vercel.app/api?username=limajoaohs&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
