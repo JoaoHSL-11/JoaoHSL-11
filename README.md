@@ -6,7 +6,7 @@ I'm a Junior Software Developer passionate about solving complex problems and bu
 - ✅ I recently completed a RESTful API project with **Java and Spring Boot**, implementing all CRUD operations.
 - 🤔 I have a strong interest in exploring the field of **Artificial Intelligence** in the future.
 - 💬 Ask me about **Python, Java, and algorithm analysis**.
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/limajoaohs/)
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/limajoaohs/)
 
 ---
 
